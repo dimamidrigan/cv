@@ -1,0 +1,48 @@
+body {
+
+    font-family: 'Outfit', sans-serif;
+    background-color: #d6e2f0;
+    text-align: center;
+
+}
+
+h1 {
+
+    color: hsl(218, 44%, 22%);
+    text-align: center;
+    font-size: 1.4rem;
+
+}
+
+p {
+
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+
+}
+
+.background {
+
+    background-color: white;
+    height: 450px;
+    width: 280px;
+    position: relative;
+    margin: 200px auto;
+    border-radius: 20px;
+
+}
+
+.imagine-qr-code {
+
+    height: 250px;
+    margin: 15px auto auto auto;
+    border-radius: 10px;
+}
+
+.attribution {
+
+    font-size: 11px; text-align: center;
+    color: hsl(228, 45%, 44%);
+
+}
